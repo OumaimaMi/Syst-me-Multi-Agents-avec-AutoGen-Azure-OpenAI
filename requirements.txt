@@ -1,0 +1,8 @@
+openai~=2.0.1
+python-dotenv>=1.0.0
+streamlit>=1.28.0
+pyautogen>=0.10.0
+autogen-agentchat>=0.7.0
+autogen-core>=0.7.0
+pydantic>=2.10.0
+typing-extensions>=4.0.0
