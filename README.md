@@ -99,8 +99,8 @@ docker run --env-file .env -p 8501:8501 agent-ia-universel
 ├── requirements.txt
 └── .env.example
 ```
+<img width="1919" height="904" alt="Capture d&#39;écran 2026-09-29 113605" src="https://github.com/user-attachments/assets/b4aff90d-df71-4c07-b41d-a44816c680a8" />
 
-<img width="1919" height="888" alt="Capture d&#39;écran 2026-09-24 195527" src="https://github.com/user-attachments/assets/90d558be-cca8-4176-bd26-4d07003da4b8" />
 <img width="1483" height="678" alt="Capture d&#39;écran 2026-09-24 194920" src="https://github.com/user-attachments/assets/d5da12a1-9c8d-4d5a-95b4-0eccac21384c" />
 
 
